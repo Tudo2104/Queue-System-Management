@@ -1,0 +1,129 @@
+Time: 0
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 1
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 2
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 3
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 4
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 5
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 6
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 7
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 8
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 9
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 10
+Waiting: (I: 1,A: 11,S: 2)  (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 11
+Waiting: (I: 4,A: 12,S: 3)  (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:(I: 1,A: 11,S: 2)
+Queue 1:
+
+Time: 12
+Waiting: (I: 2,A: 13,S: 3)  (I: 3,A: 22,S: 3)  
+Queue 0:(I: 1,A: 11,S: 1)
+Queue 1:(I: 4,A: 12,S: 3)
+
+Time: 13
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:(I: 2,A: 13,S: 3)
+Queue 1:(I: 4,A: 12,S: 2)
+
+Time: 14
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:(I: 2,A: 13,S: 2)
+Queue 1:(I: 4,A: 12,S: 1)
+
+Time: 15
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:(I: 2,A: 13,S: 1)
+Queue 1:
+
+Time: 16
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 17
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 18
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 19
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 20
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 21
+Waiting: (I: 3,A: 22,S: 3)  
+Queue 0:
+Queue 1:
+
+Time: 22
+Waiting: 
+Queue 0:(I: 3,A: 22,S: 3)
+Queue 1:
+
+Time: 23
+Waiting: 
+Queue 0:(I: 3,A: 22,S: 2)
+Queue 1:
+
+Time: 24
+Waiting: 
+Queue 0:(I: 3,A: 22,S: 1)
+Queue 1:
+
+Finished
+Peak Time: 12
+Average Service Time: 2.75
+Average Waiting Time: 2.75
